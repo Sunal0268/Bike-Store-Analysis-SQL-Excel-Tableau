@@ -47,3 +47,5 @@ Built and Analyzed $8.58M in total revenue across 7,078 units sold and 1,444 cus
 4. Business Metrics: Revenue analysis, product mix, customer value, sales performance
 
 GDrive: https://drive.google.com/drive/folders/1PSvNhfzqyWeirDN2ue4e_kmhwSC-3U9O?usp=drive_link
+
+Tableau : https://public.tableau.com/app/profile/sunal.singh
